@@ -24,4 +24,6 @@ commands or face a non-standard task, you'll get your head around it and figure
 a way to do what you want to do.
 
 ## Stuff
-* [Resources](Resources.md) Start Here!
+* [Resources](Resources.md) ↩ Start Here!
+* My Notes
+ * [Git Merge or Rebase?](notes/Merge_or_rebase.md)
