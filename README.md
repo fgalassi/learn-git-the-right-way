@@ -16,7 +16,7 @@ situation, with no clue on what to do next.
 
 
 ## The Solution
-### Learn what Git is, not what Git does To learn git the right
+### Learn what Git is, not what Git does
 The right way is starting to learn Git internal structure, those few key
 concepts that make up Git. Namely the DAG, remotes and the 3 threes: working
 directory, index and HEAD. This way even if you don't remember the details of
@@ -24,6 +24,7 @@ commands or face a non-standard task, you'll get your head around it and figure
 a way to do what you want to do.
 
 ## Stuff
-* [Resources](Resources.md) ↩ Start Here!
+#### If you're reading online to make link work [Start here!](https://github.com/fgalassi/learn-git-the-right-way/blob/master/README.md)
+* [Resources](Resources.md)
 * My Notes
  * [Git Merge or Rebase?](notes/Merge_or_rebase.md)
