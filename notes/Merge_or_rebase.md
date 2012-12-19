@@ -25,6 +25,7 @@ error: failed to push some refs to '/repo'
 
 ### 4. Let's fetch remote changes
 ```
+$ git fetch
 * 9b4cc69 (origin/master, origin/HEAD) goodbye reason
 | * 54b943f (HEAD, master) sadder goodbye
 | * 9e2c485 happier hello
@@ -36,6 +37,7 @@ error: failed to push some refs to '/repo'
 
 ### 5. Let's merge (or pull, it does the same)
 ```
+$ git pull
 *   e4a3911 (HEAD, master) Merge branch 'master' of /repo
 |\  
 | * 9b4cc69 (origin/master, origin/HEAD) goodbye reason
