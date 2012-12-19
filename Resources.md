@@ -14,7 +14,7 @@ If you find something written by these people, read it.
    master class.
 
 ## The DAG
-The DAG is the graph of commit objects plus references to point branches of
+The DAG is the graph of commit objects plus references (branches) to points of
 development, that make up a Git repository. Important to understand history and
 branching.
 * "Pro Git" book. Chapter 9 "Git internals"
