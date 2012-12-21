@@ -33,10 +33,16 @@ branching.
  * by Scott Chacon for PeepCode
  * Very nice explanation of the DAG. Much visual with lots of diagrams.
  * https://peepcode.com/products/git-internals-pdf
+* "Git Plumbing" presentation
+ * by Scott Chacon
+ * Low level git commands to manipulate the DAG
+ * https://github.com/schacon/git-plumbing-preso
 
 # The 3 Threes: working dir, index, HEAD
-These are the files you work on, the changes in your next commit and the last
-commit you did. You can explain almost all git commands in terms of these.
+Trees here means file system trees made up of directories and files. These are
+the tree of files you're working on, the tree of files in your next commit and
+the tree of files in your last commit. You can explain almost all git commands
+in terms of these.
 * "Reset Demystified" post
  * by Scott Chacon
  * Enlightening post about the nature of these trees and their relationship
@@ -69,3 +75,9 @@ commands that do the magic.
 * http://en.wikipedia.org/wiki/Git\_(software)
 * Linus Torvalds on git http://www.youtube.com/watch?v=4XpnKHJAok8 
 * https://git.wiki.kernel.org/index.php/GitHistory
+
+# Technical Stuff
+* Difference between tracking files (csv) and trees (git)
+ * http://stackoverflow.com/questions/7094726/what-are-the-underlying-git-merge-processes-within-the-staging-area
+* Recursive merge strategy explained
+ * http://codicesoftware.blogspot.com/2011/09/merge-recursive-strategy.html
