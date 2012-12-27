@@ -24,7 +24,7 @@ commands or face a non-standard task, you'll get your head around it and figure
 a way to do what you want to do.
 
 ## Stuff
-#### If you're reading online to make link work [Start here!](https://github.com/fgalassi/learn-git-the-right-way/blob/master/README.md)
+#### If you're reading this online, to make links work [Start here!](https://github.com/fgalassi/learn-git-the-right-way/blob/master/README.md)
 * [Resources](Resources.md)
 * My Notes
  * [Git Merge or Rebase?](notes/Merge_or_rebase.md)
