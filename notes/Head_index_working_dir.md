@@ -20,11 +20,13 @@ sync the working dir.
 git checkout <paths> == git checkout <index> <paths>
 git checkout <tree-ish> <paths>
 git checkout [--ours || --theirs || -m] <paths>
+git checkout [-p|--patch] [<paths>]
 ```
 
-Update ```paths``` in working dir from ```tree-ish```.
+Update ```paths``` in working dir and index from ```tree-ish``` (```index``` if no ```tree-ish``` given).
 Update ```paths``` in working dir from index with ours or theirs version of
 conflicted file or restore the conflict (-m).
+Update ```paths``` in working dir from index patch by patch
 
 # RESET
 ```
