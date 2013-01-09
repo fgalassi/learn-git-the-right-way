@@ -21,7 +21,9 @@ git pull
 git pull <remote>
 git pull <remote> <refspec> [<refspec> ...]
 ```
-Fetch + merge into ```branch.<current branch>.remote``` or ```current branch```
+Fetch changes from ```branch.<current branch>.remote``` or ```origin```. Merge
+branch ```branch.<current branch>.merge``` remote one into the local one. Otherwise
+merge first fetched branch into ```current branch```
 
 # MERGE
 ```

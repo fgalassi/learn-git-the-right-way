@@ -30,3 +30,4 @@ a way to do what you want to do.
  * [Git Merge or Rebase?](notes/Merge_or_rebase.md)
  * [Push/Pull](notes/Push_pull.md)
  * [Head, Index, Working dir](notes/Head_index_working_dir.md)
+ * [What Git Push pushes](notes/What_git_push_pushes.md)
