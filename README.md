@@ -18,7 +18,7 @@ situation, with no clue on what to do next.
 ## The Solution
 ### Learn what Git is, not what Git does
 The right way is starting to learn Git internal structure, those few key
-concepts that make up Git. Namely the DAG, remotes and the 3 threes: working
+concepts that make up Git. Namely the DAG, remotes and the three trees: working
 directory, index and HEAD. This way even if you don't remember the details of
 commands or face a non-standard task, you'll get your head around it and figure
 a way to do what you want to do.

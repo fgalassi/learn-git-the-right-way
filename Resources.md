@@ -38,8 +38,8 @@ branching.
  * Low level git commands to manipulate the DAG
  * https://github.com/schacon/git-plumbing-preso
 
-# The 3 Threes: working dir, index, HEAD
-Trees here means file system trees made up of directories and files. These are
+# The Three Trees: working dir, index, HEAD
+"Trees" here means file system trees made up of directories and files. These are
 the tree of files you're working on, the tree of files in your next commit and
 the tree of files in your last commit. You can explain almost all git commands
 in terms of these.
@@ -47,7 +47,7 @@ in terms of these.
  * by Scott Chacon
  * Enlightening post about the nature of these trees and their relationship
  * http://git-scm.com/2011/07/11/reset.html
-* "A Tale of Three Threes" talk video
+* "A Tale of Three Trees" talk video
  * by Scott Chacon
  * A later and much more detailed shoot at the topic
  * slides: https://speakerdeck.com/schacon/a-tale-of-three-trees
