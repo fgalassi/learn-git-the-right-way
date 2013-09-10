@@ -11,7 +11,7 @@ do everything conceivable under the sun. So on top of them, it has been built
 one of the most extensive and complex command line user interfaces ever seen,
 with a plethora of options to deal with every possible use case. This entails
 that trying to learn Git by looking at how you use it is suicidal. You'll face
-some non-standard task, give a wrong command and end up stuck in a broken a situation, with no clue on what to do next.
+some non-standard task, give a wrong command and end up stuck in a broken situation, with no clue on what to do next.
 
 
 ## The Solution
