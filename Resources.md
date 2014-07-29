@@ -32,7 +32,7 @@ branching.
 * "Git Internals" ebook. "Understanding Git" part
  * by Scott Chacon for PeepCode
  * Very nice explanation of the DAG. Much visual with lots of diagrams.
- * https://peepcode.com/products/git-internals-pdf
+ * https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf
 * "Git Plumbing" presentation
  * by Scott Chacon
  * Low level git commands to manipulate the DAG
