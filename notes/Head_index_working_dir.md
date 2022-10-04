@@ -36,12 +36,12 @@ git reset [--hard || --mixed || --soft] <commit>
 ```
 
 * soft
- * reset HEAD to ```commit```
+  * reset HEAD to ```commit```
 * mixed
- * reset HEAD and index to ```commit``` (unstage)
+  * reset HEAD and index to ```commit``` (unstage)
 * hard
- * reset HEAD and index and working dir to ```commit``` (wipe all changes)
- * rough equivalent of an unsafe checkout
+  * reset HEAD and index and working dir to ```commit``` (wipe all changes)
+  * rough equivalent of an unsafe checkout
 
 ## Of file paths
 ```
